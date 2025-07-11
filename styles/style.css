@@ -35,10 +35,36 @@ nav h1{
    height: 600px;
  }
  .text{
-   text-align: center;
-   padding:70px;
-   font-size: larger;
+   text-align:center;
+   padding: 12px;0px;
+   font-size: 30px;
+   font-weight: bold;
+  
+
+ }
+ .new-text{
+     text-align:le;
+   padding: 12px 0px;
+   font-size: 25px;
+   color: #252432;
+    padding:30px;
+
+
+ }
+ .color{
+  color: #82818d;
+  padding-bottom:30px;
+
+ }
+ 
+ 
+ 
+ .new-text {
+    display: flex;
+   justify-content:space-between;
+   
+
 
  }
 
- 
+ .new-text img{  border-radius: 50px;}
