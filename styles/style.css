@@ -1,0 +1,44 @@
+.delius-regular {
+  font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+nav{
+   display: flex;
+   justify-content: space-between;
+   padding:80px;
+   align:center;
+   
+}
+nav h1{
+   color: blueviolet;
+   font-size: 40px;
+   
+}
+.btn {
+ background-color: rgb(100, 9, 185);
+ color: aliceblue;
+ list-style: none;
+ padding: 10px;
+ border-radius: 5px;
+ }
+ li{
+   list-style: none;
+ }
+ nav ul{
+   align-items:center;
+ }
+ header{
+   background-image:url(../Assets/Hero-bg.png);
+   height: 600px;
+ }
+ .text{
+   text-align: center;
+   padding:70px;
+   font-size: larger;
+
+ }
+
+ 
