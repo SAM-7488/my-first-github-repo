@@ -14,15 +14,31 @@ nav{
 }
 nav h1{
    color: blueviolet;
-   font-size: 40px;
+   font-size: 60px;
    
 }
-.btn {
+nav span{
+  color:rgb(33, 1, 63);
+}
+.btn-basic {
  background-color: rgb(100, 9, 185);
  color: aliceblue;
  list-style: none;
  padding: 10px;
  border-radius: 5px;
+ width: 100px;
+ height: 50px;
+ font-size: large;
+ }
+ .btn{
+   background-color: rgb(100, 9, 185);
+ color: aliceblue;
+ list-style: none;
+ padding: 10px;
+ border-radius: 5px;
+ 
+ 
+
  }
  li{
    list-style: none;
@@ -68,3 +84,27 @@ nav h1{
  }
 
  .new-text img{  border-radius: 50px;}
+ .Productive{
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  color:rgb(108, 30, 180);
+  font-size: 30px;
+  padding:20px 90px 30px 90px;
+  align-items: center;
+  text-align: center;
+  background-color: #d3caf7;
+  margin:20px;
+ }
+  .Productive-users{
+    padding: 70px;
+    text-align: center;
+    background-color:#d3caf7;
+    border-radius: 60px;
+    margin:80px
+
+
+  }
+  .text-decoration{
+    text-decoration: underline;
+  }
